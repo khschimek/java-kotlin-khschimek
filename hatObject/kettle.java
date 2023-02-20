@@ -1,3 +1,4 @@
+package com.example.javabasics;
 public class Kettle {
     int water;
     String material;
