@@ -3,7 +3,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 public class kettleTest {
     @Test
-    public int waterAmound(){
+    public int waterAmount(){
     }
     @Test
     public String whatMaterial() {
