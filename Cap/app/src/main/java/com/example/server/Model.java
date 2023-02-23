@@ -11,7 +11,7 @@ public class Model {
     Model() {
         caps = new ArrayList<Cap>();
         caps.add(new Cap("Go CMU", Size.LARGE));
-        caps.add(new Cap("Jackalopes!", Size.MEDIUM));
+        caps.add(new Cap("Hello!", Size.MEDIUM));
     }
 
     List<Cap> findAll() {

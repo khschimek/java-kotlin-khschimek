@@ -66,7 +66,7 @@ public class Cap {
         if (label == null) {
             throw new IllegalArgumentException("label cannot be null");
         }
-        if (Utils.codepoints(label) > 20) {
+        if (Utilis.codepoints(label) > 20) {
             throw new IllegalArgumentException("label is too long");
         }
         this.label = label;
