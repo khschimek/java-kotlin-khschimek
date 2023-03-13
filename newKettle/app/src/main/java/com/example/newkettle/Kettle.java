@@ -1,12 +1,12 @@
-package com.example.kettle;
-public class Kettle{
+package com.example.newkettle;
+public class Kettle {
     public static final int DEFAULT_WATER = 0;
     private int water;
     public static final String DEFAULT_MATERIAL = "Copper";
     private String material;
 
     public Kettle() {
-        this(DEFAULT_WATER,DEFAULT_MATERIAL);
+        this(DEFAULT_WATER, DEFAULT_MATERIAL);
     }
 
     public int getWater() {

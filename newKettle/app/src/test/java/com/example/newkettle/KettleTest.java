@@ -1,4 +1,4 @@
-package com.example.kettle;
+package com.example.newkettle;
 import static org.junit.Assert.*;
 
 import android.database.DatabaseErrorHandler;
@@ -6,7 +6,7 @@ import android.database.DatabaseErrorHandler;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-class KettleTest {
+public class KettleTest {
 
     Kettle kettle;
     @Before
