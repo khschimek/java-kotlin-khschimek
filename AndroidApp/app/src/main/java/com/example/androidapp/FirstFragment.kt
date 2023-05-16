@@ -8,7 +8,6 @@ import android.view.ViewGroup
 import android.widget.Button
 import androidx.navigation.fragment.findNavController
 import com.example.androidapp.databinding.FragmentFirstBinding
-import com.example.androidapp.Multiplier.multiplier
 
 /**
  * A simple [Fragment] subclass as the default destination in the navigation.
